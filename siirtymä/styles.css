@@ -1,0 +1,19 @@
+html,
+body {
+    background-color: gray;
+    margin: 0;
+    overflow: hidden;
+}
+
+body {
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.text {
+    width: 50%;
+    text-align: center;
+}
